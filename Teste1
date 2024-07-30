@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Básica</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Minha Página</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Sobre Mim</h2>
+            <p>Olá! Meu nome é Hugo e eu sou um desenvolvedor web. Adoro criar sites e aprender novas tecnologias.</p>
+        </section>
+        <section>
+            <h2>Meus Projetos</h2>
+            <p>Aqui estão alguns dos projetos em que trabalhei recentemente:</p>
+            <ul>
+                <li>Projeto 1: <a href="#">Descrição do Projeto 1</a></li>
+                <li>Projeto 2: <a href="#">Descrição do Projeto 2</a></li>
+                <li>Projeto 3: <a href="#">Descrição do Projeto 3</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Contato: <a href="mailto:hugo@gmail.com">hugo@gmail.com</a></p>
+    </footer>
+</body>
+</html>
